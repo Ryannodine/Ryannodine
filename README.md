@@ -22,4 +22,4 @@ A crime analysis of reported incidents in Philadelphia, built from public OpenDa
  - Products: analytical bulletins and written findings for non-technical readers
 
 ## Connect
-LinkedIn: linkedin.com/in/ryan-nodine-736109261
+LinkedIn: [linkedin.com/in/ryan-nodine-736109261](https://www.linkedin.com/in/ryan-nodine-736109261/)
